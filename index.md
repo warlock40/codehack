@@ -18,5 +18,5 @@ Here you can check the web pages of the website: https://github.com/warlock40/Ka
 
 ## You can find me here:
 
-### Facebook(https://www.facebook.com/ankushhackwalock123)
-### Linkidin: link(https://www.linkedin.com/in/ankush-rautela-394b45142/)
+### [Facebook](https://www.facebook.com/ankushhackwalock123)
+### [Linkidin](https://www.linkedin.com/in/ankush-rautela-394b45142/)
