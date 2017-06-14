@@ -7,7 +7,7 @@ I am a coding enthusiast and I am a full stack web developer. I am student of BC
 ### My first Website
 
 I have made my first website when i was in 10th class. 
-Here you can check the web pages of the website: https://github.com/warlock40/Kanvashram-web-pages
+Here you can check the web pages of the website: [Web Pages](https://github.com/warlock40/Kanvashram-web-pages)
 
 
 # Courses I have taken : 
@@ -19,4 +19,5 @@ Here you can check the web pages of the website: https://github.com/warlock40/Ka
 ## You can find me here:
 
 ### [Facebook](https://www.facebook.com/ankushhackwalock123)
-### [Linkidin](https://www.linkedin.com/in/ankush-rautela-394b45142/)
+### [Linkedin](https://www.linkedin.com/in/ankush-rautela-394b45142/)
+### [Quora](https://www.quora.com/profile/Ankush-Rautela)
